@@ -86,8 +86,27 @@ In these task I used
      
      <br><img src="/SS/job3.2.png" width="1555" height="400">
      
+     *OUTPUT showing running the model*
      
+     <br><img src="/SS/run.png" width="1555" height="400">
      
+4. **JOB 4** : if metrics accuracy is less than 80%  , then tweak the machine learning model architecture.
+
+     It will run after job3 successfully build and copy the files from the job1
+
+     <br><img src="/SS/job4.1.png" width="1555" height="400">
+ 
+     Here it will check whether the accuracy >= 80% and if not then run the `TWEAK` file and re-trained the model
+      
+     <br><img src="/SS/job4.2.png" width="1555" height="400">
+     
+     #### Get the email-ext plug-in download for this and not forget to first test whether it's working or not (Manage Jenkins > Configure System > Extended e-mail) 
+     
+     Next it will send the `MAIL` either the accuracy not desirable or desirable
+     
+      <br><img src="/SS/job4.3.png" width="1555" height="400">
+     
+5.      
  
          
         
