@@ -38,4 +38,4 @@ In these task I used
 * Creating 2 Dockerfile containing all the requirements modules for 
    - Traditional Machine Learning
   
- ![Dockerfile for ML](\SS of task3\ml1.png)
+ ![Dockerfile for ML](/SS of task3/ml1.png)
