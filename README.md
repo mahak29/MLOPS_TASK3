@@ -38,7 +38,9 @@ In these task I used
 * Creating 2 Dockerfile containing all the requirements modules for 
    - Traditional Machine Learning
         1.  Dockerfile with requirements
-     ![Dockerfile for ML](/SS/ml1.png)
+        
+     ![Dockerfile for ML](/SS/ml1.png/250/250)
       
         2. Dockerfile which will run the code
+        
      ![Dockerfile for ML](/SS/ml2.png)
