@@ -33,7 +33,7 @@ In these task I used
 
 9. Create One extra job job6 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
 
-### Working on the task
+## Working on the task
 
 * Creating 2 Dockerfile containing all the requirements modules for  **Traditional Machine Learning** and **Deep Learning**
 
@@ -65,16 +65,29 @@ In these task I used
 2. **JOB 2** : By looking at the code or program file, Jenkins should automatically start the respective machine learning software installed interpreter install image container to deploy code  and start training( eg. If code uses CNN, then Jenkins should start the container that has already installed all the softwares required for the cnn processing).
 
      It will run after job1 successfully build and copy the files from the job1
+
      <br><img src="/SS/job2.1.png" width="1555" height="400">
      
      Here I provided a python file and this will start the desired container according to the file (whether it is of CNN ot traditional machine learning)
+
      <br><img src="/SS/job2.2.png" width="1555" height="400">
      
      Grab the desired container
+     
      <br><img src="/SS/container.png" width="1555" height="400">
 
+3. **JOB 3** :  Train your model and predict accuracy or metrics.
+
+     It will run after job2 successfully build and copy the files from the job1
+
+     <br><img src="/SS/job3.1.png" width="1555" height="400">
       
-       
+     Now it start running the model and get the accuracy
+     
+     <br><img src="/SS/job3.2.png" width="1555" height="400">
+     
+     
+     
  
          
         
