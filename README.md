@@ -43,4 +43,16 @@ In these task I used
       
         2. Dockerfile which will run the code
         
-     ![Dockerfile for ML](/SS/ml2.png)
+     <br><img src="/SS/ml2.png" width="1555" height="400">
+     
+    - **Deep Learning**
+         1.  Dockerfile with requirements
+        
+     <br><img src="/SS/dl1.png" width="1555" height="400">
+      
+          2. Dockerfile which will run the code
+        
+     <br><img src="/SS/dl2.png" width="1555" height="400">
+ 
+         
+        
