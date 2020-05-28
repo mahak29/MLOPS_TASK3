@@ -36,10 +36,10 @@ In these task I used
 ##### Working on the task
 
 * Creating 2 Dockerfile containing all the requirements modules for 
-   - Traditional Machine Learning
+   - **Traditional Machine Learning**
         1.  Dockerfile with requirements
         
-     <br><img src="/SS/ml1.png" width="1555" height="900">
+     <br><img src="/SS/ml1.png" width="1555" height="600">
       
         2. Dockerfile which will run the code
         
