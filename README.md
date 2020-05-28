@@ -1,4 +1,4 @@
-# ML-Ops *(Integration Machine Learning with Devops)*
+# ML-Ops *(Integrating Machine Learning with Devops)*
 
 “ **MLOps** (a compound of Machine Learning and “information technology operation”) is new discipline/focus/practice for collaboration and communication between data scientists and information technology (IT) professionals while automating and productizing machine learning algorithms.” 
 
@@ -39,7 +39,7 @@ In these task I used
    - Traditional Machine Learning
         1.  Dockerfile with requirements
         
-     ![Dockerfile for ML](/SS/ml1.png/250/250)
+     <img src="/SS/ml1.png" width="250" height="250">
       
         2. Dockerfile which will run the code
         
