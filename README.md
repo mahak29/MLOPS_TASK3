@@ -39,7 +39,7 @@ In these task I used
    - **Traditional Machine Learning**
         1.  Dockerfile with requirements
         
-     <br><img src="/SS/ml1.png" width="1555" height="600">
+     <br><img src="/SS/ml1.png" width="1555" height="400">
       
         2. Dockerfile which will run the code
         
