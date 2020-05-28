@@ -49,15 +49,30 @@ In these task I used
      
 * Now have a look on the `desired`  *JOBS* (Screenshots are provided)
 
+**I also use the COPY ARTIFACTS plug-ins as I'm facing problem while fetching the files from one job to another(It's your choice if ypu are not facing then don't use)**
+
 1. **JOB 1** : Pull  the Github repo automatically when some developers push repo to Github.
   
       Give your GitHub Repository link  
       <br><img src="/SS/job1.1.png" width="1555" height="400">
       
-      ADD the files to the base OS folder
+      ADD the files to the base OS folder and have the trigger which we pull from the github
+      
       <br><img src="/SS/job1.2.png" width="1555" height="400">
+      
+      <br><img src="/SS/job1.3.png" width="1555" height="400">
 
-         
+2. **JOB 2** : By looking at the code or program file, Jenkins should automatically start the respective machine learning software installed interpreter install image container to deploy code  and start training( eg. If code uses CNN, then Jenkins should start the container that has already installed all the softwares required for the cnn processing).
+
+     It will run after job1 successfully build and copy the files from the job1
+     <br><img src="/SS/job2.1.png" width="1555" height="400">
+     
+     Here I provided a python file and this will start the desired container according to the file (whether it is of CNN ot traditional machine learning)
+     <br><img src="/SS/job2.2.png" width="1555" height="400">
+     
+     Grab the desired container
+     <br><img src="/SS/container.png" width="1555" height="400">
+
       
        
  
