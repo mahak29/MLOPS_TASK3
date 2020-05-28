@@ -33,17 +33,17 @@ In these task I used
 
 9. Create One extra job job6 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again from where the last trained model left
 
-##### Working on the task
+### Working on the task
 
 * Creating 2 Dockerfile containing all the requirements modules for  **Traditional Machine Learning** and **Deep Learning**
 
 For both type of models create this Dockerfile 
 
-        1.  Dockerfile with requirements
+- Dockerfile with requirements
         
      <br><img src="/SS/ml1.png" width="1555" height="400">
       
-        2. Dockerfile which will run the code
+- Dockerfile which will run the code
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
      
