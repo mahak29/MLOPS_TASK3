@@ -47,11 +47,15 @@ In these task I used
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
      
-* Now have a look on the `desired` *JOBS*
+* Now have a look on the `desired`  *JOBS* (Screenshots are provided)
 
 1. **JOB 1** : Pull  the Github repo automatically when some developers push repo to Github.
-
+  
+      Give your GitHub Repository link  
       <br><img src="/SS/job1.1.png" width="1555" height="400">
+      
+      ADD the files to the base OS folder
+      <br><img src="/SS/job1.2.png" width="1555" height="400">
 
          
       
