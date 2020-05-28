@@ -35,8 +35,10 @@ In these task I used
 
 ##### Working on the task
 
-* Creating 2 Dockerfile containing all the requirements modules for 
-   - **Traditional Machine Learning**
+* Creating 2 Dockerfile containing all the requirements modules for  **Traditional Machine Learning** and **Deep Learning**
+
+For both type of models create this Dockerfile 
+
         1.  Dockerfile with requirements
         
      <br><img src="/SS/ml1.png" width="1555" height="400">
@@ -45,14 +47,11 @@ In these task I used
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
      
-    - **Deep Learning**
-         1.  Dockerfile with requirements
-        
-     <br><img src="/SS/dl1.png" width="1555" height="400">
+* Now have a look on the `desired` *JOBS*
+
+         
       
-          2. Dockerfile which will run the code
-        
-     <br><img src="/SS/dl2.png" width="1555" height="400">
+       
  
          
         
