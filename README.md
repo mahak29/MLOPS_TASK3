@@ -90,7 +90,7 @@ In these task I used
      
      <br><img src="/SS/run.png" width="1555" height="400">
      
-4. **JOB 4** : if metrics accuracy is less than 80%  , then tweak the machine learning model architecture.
+4. **JOB 4** : if metrics accuracy is less than 80%  , then tweak the machine learning model architecture and re-trained the model
 
      It will run after job3 successfully build and copy the files from the job1
 
@@ -106,7 +106,20 @@ In these task I used
      
       <br><img src="/SS/job4.3.png" width="1555" height="400">
      
-5.      
+5. **JOB 5** : Create One extra job for monitor : 
+
+If container where app is running fails due to any reason then this job should automatically start the container again from where the last trained model left
+
+   It will run after job2 successfully build and have an eye on the containerfor every single minute 
+
+   <br><img src="/SS/job5.1.png" width="1555" height="400">
+   
+   <br><img src="/SS/job5.2.png" width="1555" height="400">
+   
+ 
+## That's all about all the jobs
+   
+
  
          
         
