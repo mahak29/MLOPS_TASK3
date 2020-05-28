@@ -37,17 +37,21 @@ In these task I used
 
 * Creating 2 Dockerfile containing all the requirements modules for  **Traditional Machine Learning** and **Deep Learning**
 
-For both type of models create this Dockerfile 
+<u>For both type of models create this Dockerfile</u>
 
-- Dockerfile with requirements
+1. Dockerfile with requirements
         
      <br><img src="/SS/ml1.png" width="1555" height="400">
       
-- Dockerfile which will run the code
+2. Dockerfile which will run the code
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
      
 * Now have a look on the `desired` *JOBS*
+
+1. **JOB 1** : Pull  the Github repo automatically when some developers push repo to Github.
+
+      <br><img src="/SS/job1.1.png" width="1555" height="400">
 
          
       
