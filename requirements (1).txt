@@ -1,0 +1,10 @@
+tensorflow==1.13.1
+opencv-python
+matplotlib
+keras==2.2.4
+pillow
+seaborn
+pandas
+numpy
+
+
