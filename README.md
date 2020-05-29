@@ -46,8 +46,12 @@ In these task I used
 2. Dockerfile which will run the code
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
+ 
+ *Requirements for both type model is also provided*
      
-*For this task I used `LeNetmnist.py` file ( You can used according to your desired)*
+*For this task I used `LeNetmnist.py` file ( You can used according to your desired). 
+
+Get the file on [GITHUB REPOSITORY](https://github.com/mahak29/mlops.git)*
      
 * Now have a look on the `desired`  *JOBS* (Screenshots are provided)
 
