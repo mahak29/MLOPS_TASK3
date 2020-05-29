@@ -4,7 +4,7 @@
 
 ![mlops structure](https://www.c-sharpcorner.com/UploadFile/BlogImages/11122019223851PM/image1.png)
 
-Here I would like to share `my hands-on experience` while integrating *MLOps*
+Here I would like to share `my hands-on experience` while integrating *ML and DevOps*
 
 In these task I used 
 - Docker 
