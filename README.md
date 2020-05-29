@@ -117,9 +117,23 @@ If container where app is running fails due to any reason then this job should a
    <br><img src="/SS/job5.2.png" width="1555" height="400">
    
  
-## That's all about all the jobs
-   
+### That's all about all the jobs
 
- 
+**Have a look on sequence on jobs**
+
+   <br><img src="/SS/alljob.png" width="1555" height="400">
+
+   ## Build Pipeline of the task
+
+   
+   <br><img src="/SS/b1.png" width="1555" height="400">
+   
+   
+   <br><img src="/SS/b2.png" width="1555" height="400">
+   
+   
+   <br><img src="/SS/b3.png" width="1555" height="400">
+   
+### Yaaaaaay!!!!! Successfully BUILD All the jobs......
          
         
