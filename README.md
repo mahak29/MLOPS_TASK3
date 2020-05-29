@@ -139,6 +139,10 @@ If container where app is running fails due to any reason then this job should a
    
    <br><img src="/SS/b3.png" width="1555" height="400">
    
+   **Send the `mail` about the accuracy**
+   
+   <br><img src="/SS/mail.png" width="1555" height="400">
+   
 ### Yaaaaaay!!!!! Successfully BUILD All the jobs......
          
         
