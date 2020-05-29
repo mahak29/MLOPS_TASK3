@@ -47,6 +47,8 @@ In these task I used
         
      <br><img src="/SS/ml2.png" width="1555" height="400">
      
+*For this task I used `LeNetmnist.py` file ( You can used according to your desired)*
+     
 * Now have a look on the `desired`  *JOBS* (Screenshots are provided)
 
 **I also use the COPY ARTIFACTS plug-ins as I'm facing problem while fetching the files from one job to another(It's your choice if ypu are not facing then don't use)**
