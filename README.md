@@ -50,7 +50,6 @@ In these task I used
  *Requirements for both type model is also provided*
      
 *For this task I used `LeNetmnist.py` file ( You can used according to your desired). 
-
 Get the file on [GITHUB REPOSITORY](https://github.com/mahak29/mlops.git)*
      
 * Now have a look on the `desired`  *JOBS* (Screenshots are provided)
